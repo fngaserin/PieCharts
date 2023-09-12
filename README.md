@@ -2,6 +2,7 @@
 
 [![Version](https://img.shields.io/cocoapods/v/PieCharts.svg?style=flat)](http://cocoadocs.org/docsets/PieCharts)
 [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
+[![Swift Package Manager compatible](https://img.shields.io/badge/Swift_Package_Manager-compatible-orange?style=flat-square)]
 [![License](https://img.shields.io/cocoapods/l/PieCharts.svg?style=flat)](http://cocoadocs.org/docsets/PieCharts)
 
 Easy to use and highly customizable pie charts library for iOS
